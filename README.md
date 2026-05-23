@@ -2,6 +2,6 @@
 
 This repository contains folders for the zwitterionic NDBA molecule positively charged NDBA molecule used for the simulation.
 
-The respective folders contain the topology files with QM-RESP charges and .pdb files for NDBA molecule.
+The respective folders contain the topology file with QM-RESP charges and .pdb file for NDBA molecule.
 
 
